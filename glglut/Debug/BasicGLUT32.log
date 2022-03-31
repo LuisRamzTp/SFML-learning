@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\glglut\main.cpp(39,6): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\USER\source\repos\glglut\main.cpp(39,15): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\USER\source\repos\glglut\main.cpp(40,3): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\USER\source\repos\glglut\main.cpp(40,16): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  BasicGLUT32.vcxproj -> C:\Users\USER\source\repos\glglut\Debug\BasicGLUT32.exe
